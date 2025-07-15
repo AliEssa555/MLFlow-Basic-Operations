@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/mlflow_test/mlruns/0/2762c2d274c64b82a9e6b6fd0d7cb75f/artifacts
+end_time: 1752512199895
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2762c2d274c64b82a9e6b6fd0d7cb75f
+run_name: spiffy-swan-858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752512142641
+status: 3
+tags: []
+user_id: DELL PC
